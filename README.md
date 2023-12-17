@@ -19,7 +19,7 @@
   - 수행하는 방법
     - AWS Lambda
 
-# Amazon Lex 구축 방
+# Amazon Lex 구축 방식
 
 
 
