@@ -21,8 +21,9 @@
 
 ## Amazon Lex 구축 방식
 
+## Amazon Lex & Connect 통합
 
 
 
 
-
+https://velog.io/@king/amazon-connect
