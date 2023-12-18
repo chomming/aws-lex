@@ -5,14 +5,17 @@
 
 ## Amazon Connect의 기본 시나리오
 - 고객 : 통화 시작 --> 전화번호 확인 --> 등록된 번호라면 CRM 확인 --> 고객 환경 텍스트를 이용해 읽어줌 --> 고객 : 발화 시작 --> 예약 시작
+<br/></br>
 
 ## Amazon Connect의 장점
 - 다양한 AWS 서비스와 연동 가능
 - 모든 데이터를 무제한으로 S3에 저장 가능
 - 고객 응대 흐름에서 원하는 데이터 가져오고 보낼 수 있음
+<br/></br>
 
 ## Amazon Lex의 기능
 - 대화형 인터페이스를 구축하는 완전 관리형 AI 서비스
+<br/></br>
 
 ## Amazon Lex의 구성요소
 - Intent(의도)
@@ -27,8 +30,10 @@
 - Fulfillment(이행)
   - 수행하는 방법
     - AWS Lambda
+<br/></br>
 
 ## Amazon Lex 구축 방식
+<br/></br>
 
 ## Amazon Lex & Connect 통합
 - Lex 자동 음성 인식(ASR), 자연어 처리 및 인식(NLU) 기능 활용
