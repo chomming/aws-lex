@@ -32,9 +32,6 @@
     - AWS Lambda
 <br/></br>
 
-## Amazon Lex 구축 방식
-<br/></br>
-
 ## Amazon Lex & Connect 통합
 - Lex 자동 음성 인식(ASR), 자연어 처리 및 인식(NLU) 기능 활용
   - ASR
@@ -56,3 +53,10 @@
         - 감성 분석 : 상품, 서비스 리뷰 데이터 긍/부정 판별
         - 문장 유사성 : 유사 문서 클러스터
         - 추론 : 자동 내부 및 회계 검사
+<br/></br>
+
+## Amazon Lex 구축 과정
+<br/></br>
+
+## Amazon Connect 구축 과정
+<br/></br>
