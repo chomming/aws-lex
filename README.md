@@ -41,7 +41,9 @@
 <br/></br>
 
 ## Amazon Lex 구축 과정
-<br/></br>
-
-## Amazon Connect 구축 과정
+- 대화 흐름
+  - 샘플 표현
+  - 초기 응답
+  - 슬롯
+  - 슬롯 값
 <br/></br>
